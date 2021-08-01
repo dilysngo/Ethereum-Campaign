@@ -23,3 +23,5 @@ $ node deploy.js
 # To start
 $ yarn start Or npm run start
 ```
+### Note
+Required metamask or any wallet. 
